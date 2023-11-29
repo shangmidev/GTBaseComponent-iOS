@@ -1,0 +1,6 @@
+framework module GTBaseComponent {
+  umbrella header "GTBaseComponent.pch"
+
+  export *
+  module * { export * }
+}

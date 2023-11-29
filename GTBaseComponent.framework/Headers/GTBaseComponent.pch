@@ -1,0 +1,26 @@
+//
+//  GTBaseComponent.pch
+//  GTBaseComponent
+//
+//  Created by shangmi on 2023/6/14.
+//
+
+#ifndef GTBaseComponent_pch
+#define GTBaseComponent_pch
+
+#import <Masonry.h>
+#import <Lottie/Lottie.h>
+
+#import "UIColor+Util.h"
+#import "UIFont+Custom.h"
+#import "UIButton+Extent.h"
+#import "NSString+Custom.h"
+#import "NSData+Custom.h"
+#import "NSDate+Custom.h"
+
+
+#import "GTBaseCompoentUtil.h"
+#import "GTDeviceInfoUtil.h"
+#import "GTCacheTool.h"
+
+#endif /* GTBaseComponent_pch */
