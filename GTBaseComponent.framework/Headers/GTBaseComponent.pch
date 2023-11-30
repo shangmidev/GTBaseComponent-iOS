@@ -9,8 +9,9 @@
 #define GTBaseComponent_pch
 
 #import <Masonry.h>
+#import <AFNetworking.h>
 #import <Lottie/Lottie.h>
-
+#import <AFHTTPSessionManager.h>
 #import "UIColor+Util.h"
 #import "UIFont+Custom.h"
 #import "UIButton+Extent.h"
